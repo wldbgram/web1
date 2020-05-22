@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>WANTED</title>
+  </head>
+  <style>
+    *{
+      text-decoration: none;
+    }
+    h1{
+      font-size: 55px;
+      text-align: center;
+    }
+  </style>
+  <body>
+    <h1>WANTED</h1>
+    <p id="profile"><img src="C:\Users\wldb1\Desktop\WEB\EPUI\profile.png"></p>
+    <ol>
+      <li>이름 : 김에픠</li>
+      <li>직업 : 엔지니어</li>
+      <li>취미 : 베이비 변태</li>
+    </ol>
+  </body>
+</html>
