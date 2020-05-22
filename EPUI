@@ -15,7 +15,7 @@
   </style>
   <body>
     <h1>WANTED</h1>
-    <p id="profile"><img src="C:\Users\wldb1\Desktop\WEB\EPUI\profile.png"></p>
+    <p id="profile"><img src="https://github.com/wldbgram/web1/blob/master/profile.png?raw=true"></p>
     <ol>
       <li>이름 : 김에픠</li>
       <li>직업 : 엔지니어</li>
